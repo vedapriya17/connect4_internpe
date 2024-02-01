@@ -6,3 +6,5 @@ has four of her pieces placed consecutively horizontally, vertically or diagonal
 In this game, I have used '1' and '2' players. I have designed it on my own so you can look and change the design accordingly.
 ## To complie use command:
 `g++ main.cpp Connect4Game.cpp`
+
+https://github.com/vedapriya17/connect4_internpe/assets/140573640/bf16e260-4205-426c-84d4-bede5be31290
