@@ -5,4 +5,4 @@ available on the board. Players take alternative turns until one of the players 
 has four of her pieces placed consecutively horizontally, vertically or diagonally! 
 In this game, I have used '1' and '2' players. I have designed it on my own so you can look and change the design accordingly.
 ## To complie use command:
-g++ main.cpp Connect4Game.cpp
+`g++ main.cpp Connect4Game.cpp`
